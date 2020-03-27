@@ -1,2 +1,2 @@
 # MyEditor
-A flexible code editor based of Atom designed for Python and HTML programming
+A flexible code editor made with Electron for Python and Web development.
